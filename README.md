@@ -1,9 +1,12 @@
 # Willkommen bei der Mikrocontroller AG des MPG Düsseldorf
 In diesem Kurs wird alles wichtige zur Mikrocontroller AG am MPG Düsseldorf dokumentiert
 
-
 ## Als erstes ein sicherer Browser
-Waterfox ist wie Firefox, nur wird eure Privatsphäre im Internet geschützt und eure Daten werden nicht verkauft. Es gibt auch andere Browser wie Brave oder Duckduckgo, die auch einen starken Fokus auf Privatsphäre und Sicherheit legen.d
+
+<details>
+<summary>Als erstes ein sicherer Browser</summary>
+  
+  Waterfox ist wie Firefox, nur wird eure Privatsphäre im Internet geschützt und eure Daten werden nicht verkauft. Es gibt auch andere Browser wie Brave oder Duckduckgo, die auch einen starken Fokus auf Privatsphäre und Sicherheit legen.
 
 **https://www.waterfox.com/**
 
@@ -21,7 +24,7 @@ Cookie-Blocker:
 Ich will bei YouTube die Dislikes sehen:
 
 **https://addons.mozilla.org/de/firefox/addon/return-youtube-dislikes/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search**
-
+</details>
 
 ## Eine Mailumgebung, die die Privatsphäre schützt
 Protonmail gehört zur Proton AG, die ein Softwarehersteller aus der Schweiz sind und den Fokus auf die Privatsphäre des Nutzers setzen.
