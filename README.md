@@ -1,8 +1,9 @@
 # Willkommen bei der Mikrocontroller AG des MPG Düsseldorf
 In diesem Kurs wird alles wichtige zur Mikrocontroller AG am MPG Düsseldorf dokumentiert
 
+
 ## Als erstes ein sicherer Browser
-Waterfox ist wie Firefox, nur wird eure Privatsphäre im Internet geschützt und eure Daten werden nicht verkauft.
+Waterfox ist wie Firefox, nur wird eure Privatsphäre im Internet geschützt und eure Daten werden nicht verkauft. Es gibt auch andere Browser wie Brave oder Duckduckgo, die auch einen starken Fokus auf Privatsphäre und Sicherheit legen.d
 
 **https://www.waterfox.com/**
 
@@ -41,6 +42,17 @@ Hier die Waterfox Extension:
 **https://addons.mozilla.org/de/firefox/addon/bitwarden-password-manager/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search**
 
 
+## Was ist GitHub?
+GitHub basiert auf der Open Source Software Git. Nutzer können Code speichern, verwalten und gemeinsam daran arbeiten, wodurch Änderungen nachverfolgt und frühere Versionen wiederhergestellt werden können. GitHub ermöglicht es einem den Code in eine Cloud hochzuladen, die entweder öffentlich oder privat ist.
+
+Wenn ihr GitHub noch nie benutzt habt und ein Interesse daran habt, damit zu arbeiten ist hier der Beginner Guide von GitHub:
+
+**https://docs.github.com/de/get-started**
+
+Ihr könnt auch direkt zur Accounterstellung springen und nutzt am besten die vorher erstellte Mailadresse von Protonmail:
+
+**https://github.com/signup**
+
 ## Programmierbasics
 Karel ist eine Möglichkeit die absoluten Basics der Programmierung zu lernen. Zum Beispiel, was ist eine if-Abfrage oder was ist eine Funktion?
 
@@ -56,3 +68,9 @@ Mit der Arduino IDE können Microcontroller in der Sprache C und C++
 ## Der Link zur Elegoo-Seite für den Download von der Anleitung für Arduino.
 
 **https://www.elegoo.com/pages/download**
+
+
+## Das Elektronikkompendium
+Unter den Downloads gibt es weitere Guides. Hier ist der Fokus mehr auf dem Aufbau von Schaltungen und wie diese funktionieren.
+
+**https://www.elektronik-kompendium.de/service/download/**
