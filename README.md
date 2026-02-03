@@ -2,7 +2,6 @@
 In diesem Kurs wird alles wichtige zur Mikrocontroller AG am MPG Düsseldorf dokumentiert
 
 ## Als erstes ein sicherer Browser
-
 <details>
 <summary></summary>
   
@@ -27,14 +26,20 @@ Ich will bei YouTube die Dislikes sehen:
 </details>
 
 ## Eine Mailumgebung, die die Privatsphäre schützt
-Protonmail gehört zur Proton AG, die ein Softwarehersteller aus der Schweiz sind und den Fokus auf die Privatsphäre des Nutzers setzen.
+<details>
+<summary></summary>
+  
+  Protonmail gehört zur Proton AG, die ein Softwarehersteller aus der Schweiz sind und den Fokus auf die Privatsphäre des Nutzers setzen.
 Gegründet wurde die Firma von Forschern am Cern-Forschungszentrum.
 
 **https://account.proton.me/mail**
-
+</details>
 
 ## Ein sicherer und kostenloser Passwortmanager
-Bitwarden ist ein kostenloser Passwortmanager, mit dem Passwörter und Zugangsdaten erstellt und gespeichert werden können.
+<details>
+<summary></summary>
+  
+  Bitwarden ist ein kostenloser Passwortmanager, mit dem Passwörter und Zugangsdaten erstellt und gespeichert werden können.
 Achtung! Vergesst ihr einmal eurer Passwort zu eurem Bitwarden Tresor, kommt ihr nicht mehr an den Account. Also merkt euch euer Passwort gut :).
 
 **https://bitwarden.com/de-de/**
@@ -43,10 +48,13 @@ Achtung! Vergesst ihr einmal eurer Passwort zu eurem Bitwarden Tresor, kommt ihr
 Hier die Waterfox Extension:
 
 **https://addons.mozilla.org/de/firefox/addon/bitwarden-password-manager/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search**
-
+</details>
 
 ## Was ist GitHub?
-GitHub basiert auf der Open Source Software Git. Nutzer können Code speichern, verwalten und gemeinsam daran arbeiten, wodurch Änderungen nachverfolgt und frühere Versionen wiederhergestellt werden können. GitHub ermöglicht es einem den Code in eine Cloud hochzuladen, die entweder öffentlich oder privat ist.
+<details>
+<summary></summary>
+  
+  GitHub basiert auf der Open Source Software Git. Nutzer können Code speichern, verwalten und gemeinsam daran arbeiten, wodurch Änderungen nachverfolgt und frühere Versionen wiederhergestellt werden können. GitHub ermöglicht es einem den Code in eine Cloud hochzuladen, die entweder öffentlich oder privat ist.
 
 Wenn ihr GitHub noch nie benutzt habt und ein Interesse daran habt, damit zu arbeiten ist hier der Beginner Guide von GitHub:
 
@@ -55,21 +63,30 @@ Wenn ihr GitHub noch nie benutzt habt und ein Interesse daran habt, damit zu arb
 Ihr könnt auch direkt zur Accounterstellung springen und nutzt am besten die vorher erstellte Mailadresse von Protonmail:
 
 **https://github.com/signup**
+</details>
 
 ## Programmierbasics
-Karel ist eine Möglichkeit die absoluten Basics der Programmierung zu lernen. Zum Beispiel, was ist eine if-Abfrage oder was ist eine Funktion?
+<details>
+<summary></summary>
+  
+  Karel ist eine Möglichkeit die absoluten Basics der Programmierung zu lernen. Zum Beispiel, was ist eine if-Abfrage oder was ist eine Funktion?
 
 **https://github.com/fredoverflow/karel**
-
+</details>
 
 ## Der Link zum Downlaod der Arduino IDE
-Mit der Arduino IDE können Microcontroller in der Sprache C und C++
+<details>
+<summary></summary>
+  
+  Mit der Arduino IDE können Microcontroller in der Sprache C und C++
 
 **https://docs.arduino.cc/software/ide/**
-
+</details>
 
 ## Der Link zur Elegoo-Seite für den Download von der Anleitung für Arduino.
-
+<details>
+<summary></summary>
+  
 **https://www.elegoo.com/pages/download**
 
 
