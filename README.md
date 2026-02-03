@@ -7,22 +7,22 @@ In diesem Kurs wird alles wichtige zur Mikrocontroller AG am MPG Düsseldorf dok
   
   Waterfox ist wie Firefox, nur wird eure Privatsphäre im Internet geschützt und eure Daten werden nicht verkauft. Es gibt auch andere Browser wie Brave oder Duckduckgo, die auch einen starken Fokus auf Privatsphäre und Sicherheit legen.
 
-**https://www.waterfox.com/**
+  **https://www.waterfox.com/**
 
-Hier sind noch die drei Extensions, die ich persönlich sehr gerne nutze bei meinem Browser.
-Ein Tracker- und Ad-Blocker:
+  Hier sind noch die drei Extensions, die ich persönlich sehr gerne nutze bei meinem Browser.
+  Ein Tracker- und Ad-Blocker:
 
-**https://addons.mozilla.org/de/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search**
-
-
-Cookie-Blocker:
-
-**https://addons.mozilla.org/de/firefox/addon/istilldontcareaboutcookies/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search**
+  **https://addons.mozilla.org/de/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search**
 
 
-Ich will bei YouTube die Dislikes sehen:
+  Cookie-Blocker:
 
-**https://addons.mozilla.org/de/firefox/addon/return-youtube-dislikes/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search**
+  **https://addons.mozilla.org/de/firefox/addon/istilldontcareaboutcookies/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search**
+
+
+  Ich will bei YouTube die Dislikes sehen:
+
+  **https://addons.mozilla.org/de/firefox/addon/return-youtube-dislikes/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search**
 </details>
 
 ## Eine Mailumgebung, die die Privatsphäre schützt
@@ -30,9 +30,9 @@ Ich will bei YouTube die Dislikes sehen:
 <summary></summary>
   
   Protonmail gehört zur Proton AG, die ein Softwarehersteller aus der Schweiz sind und den Fokus auf die Privatsphäre des Nutzers setzen.
-Gegründet wurde die Firma von Forschern am Cern-Forschungszentrum.
+  Gegründet wurde die Firma von Forschern am Cern-Forschungszentrum.
 
-**https://account.proton.me/mail**
+  **https://account.proton.me/mail**
 </details>
 
 ## Ein sicherer und kostenloser Passwortmanager
@@ -40,14 +40,14 @@ Gegründet wurde die Firma von Forschern am Cern-Forschungszentrum.
 <summary></summary>
   
   Bitwarden ist ein kostenloser Passwortmanager, mit dem Passwörter und Zugangsdaten erstellt und gespeichert werden können.
-Achtung! Vergesst ihr einmal eurer Passwort zu eurem Bitwarden Tresor, kommt ihr nicht mehr an den Account. Also merkt euch euer Passwort gut :).
+  Achtung! Vergesst ihr einmal eurer Passwort zu eurem Bitwarden Tresor, kommt ihr nicht mehr an den Account. Also merkt euch euer Passwort gut :).
 
-**https://bitwarden.com/de-de/**
+  **https://bitwarden.com/de-de/**
 
 
-Hier die Waterfox Extension:
+  Hier die Waterfox Extension:
 
-**https://addons.mozilla.org/de/firefox/addon/bitwarden-password-manager/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search**
+  **https://addons.mozilla.org/de/firefox/addon/bitwarden-password-manager/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search**
 </details>
 
 ## Was ist GitHub?
@@ -56,13 +56,13 @@ Hier die Waterfox Extension:
   
   GitHub basiert auf der Open Source Software Git. Nutzer können Code speichern, verwalten und gemeinsam daran arbeiten, wodurch Änderungen nachverfolgt und frühere Versionen wiederhergestellt werden können. GitHub ermöglicht es einem den Code in eine Cloud hochzuladen, die entweder öffentlich oder privat ist.
 
-Wenn ihr GitHub noch nie benutzt habt und ein Interesse daran habt, damit zu arbeiten ist hier der Beginner Guide von GitHub:
+  Wenn ihr GitHub noch nie benutzt habt und ein Interesse daran habt, damit zu arbeiten ist hier der Beginner Guide von GitHub:
 
-**https://docs.github.com/de/get-started**
+  **https://docs.github.com/de/get-started**
 
-Ihr könnt auch direkt zur Accounterstellung springen und nutzt am besten die vorher erstellte Mailadresse von Protonmail:
+  Ihr könnt auch direkt zur Accounterstellung springen und nutzt am besten die vorher erstellte Mailadresse von Protonmail:
 
-**https://github.com/signup**
+  **https://github.com/signup**
 </details>
 
 ## Programmierbasics
@@ -71,7 +71,7 @@ Ihr könnt auch direkt zur Accounterstellung springen und nutzt am besten die vo
   
   Karel ist eine Möglichkeit die absoluten Basics der Programmierung zu lernen. Zum Beispiel, was ist eine if-Abfrage oder was ist eine Funktion?
 
-**https://github.com/fredoverflow/karel**
+  **https://github.com/fredoverflow/karel**
 </details>
 
 ## Der Link zum Downlaod der Arduino IDE
@@ -80,17 +80,29 @@ Ihr könnt auch direkt zur Accounterstellung springen und nutzt am besten die vo
   
   Mit der Arduino IDE können Microcontroller in der Sprache C und C++
 
-**https://docs.arduino.cc/software/ide/**
+  **https://docs.arduino.cc/software/ide/**
 </details>
 
 ## Der Link zur Elegoo-Seite für den Download von der Anleitung für Arduino.
 <details>
 <summary></summary>
   
-**https://www.elegoo.com/pages/download**
-
+  **https://www.elegoo.com/pages/download**
+</details>
 
 ## Das Elektronikkompendium
-Unter den Downloads gibt es weitere Guides. Hier ist der Fokus mehr auf dem Aufbau von Schaltungen und wie diese funktionieren.
+<details>
+<summary></summary>
+  
+  Unter den Downloads gibt es weitere Guides. Hier ist der Fokus mehr auf dem Aufbau von Schaltungen und wie diese funktionieren.
 
-**https://www.elektronik-kompendium.de/service/download/**
+  **https://www.elektronik-kompendium.de/service/download/**
+</details>
+
+## Fragen zu Arduino Funktionen oder Elektrotechnik
+
+<details>
+<summary>Was ist ein Pull-Up oder ein Pull-Down Widerstand?</summary>
+
+  **https://www.elektronik-kompendium.de/public/schaerer/pullr.htm**
+</details>
