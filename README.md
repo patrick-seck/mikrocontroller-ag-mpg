@@ -4,7 +4,7 @@ In diesem Kurs wird alles wichtige zur Mikrocontroller AG am MPG Düsseldorf dok
 ## Als erstes ein sicherer Browser
 
 <details>
-<summary>Als erstes ein sicherer Browser</summary>
+<summary></summary>
   
   Waterfox ist wie Firefox, nur wird eure Privatsphäre im Internet geschützt und eure Daten werden nicht verkauft. Es gibt auch andere Browser wie Brave oder Duckduckgo, die auch einen starken Fokus auf Privatsphäre und Sicherheit legen.
 
